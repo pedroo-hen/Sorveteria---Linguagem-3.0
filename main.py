@@ -1,9 +1,9 @@
 #Curso: Técnico em Informatica.
 #Turma: 2º Ano.
 #Turno: Matutino.
-#Disciplina: Linguagem de Programação
-#Alunos: Brenda Custodio de Souza - Pedro Henrique Silva. 
 
+#Alunos: Brenda Custodio de Souza - Pedro Henrique Silva. 
+#Disciplina: Linguagem
 from time import sleep
 
 class Cliente(object):
