@@ -3,7 +3,7 @@
 #Turno: Matutino
 
 #Alunos: Brenda Custodio de Souza - Pedro Henrique Silva. 
-#Disciplina: Linguagem
+#Disciplina: Linguagem de programação 
 
 from time import sleep
 
