@@ -80,11 +80,11 @@ class Barca(Sorvete):
         print("""___________________________________________________________________________
 |    Peso  |          Sabor            |           Acompanhamento         |
 |__________|___________________________|__________________________________|
-|[1] - 1kg | [1] - Uva                 | [1] - Flocos                     |
-|[2] - 2kg | [2] - Creme               | [2] - cereja                     |
-|          | [3] - Coco                | [3] - granulado                  |
-|          | [4] - Maracujá            | [4] - bala de goma com chocolate |
-|          | [5] - Doce de leite       | [5] - chocolate derretido        |
+|[1] - 1kg | [1] - Uva                 | [1] - Castanhas                  |
+|[2] - 2kg | [2] - Creme               | [2] - Balinhas de gelatina       |
+|          | [3] - Coco                | [3] -  Cookies                   |
+|          | [4] - Maracujá            | [4] - Caramelo                   |
+|          | [5] - Doce de leite       | [5] - Calda de chocolate         |
 |__________|___________________________|__________________________________|
 """)
         print("OBS:Não se esqueça de digitar o numero do ingrediente desejado: ")
@@ -142,11 +142,11 @@ class Barca(Sorvete):
         print("""___________________________________________________________________________
 |    Peso  |          Sabor            |           Acompanhamento         |
 |__________|___________________________|__________________________________|
-|[1] - 1kg | [1] - Uva                 | [1] - Flocos                     |
-|[2] - 2kg | [2] - Creme               | [2] - cereja                     |
-|          | [3] - Coco                | [3] - granulado                  |
-|          | [4] - Maracujá            | [4] - bala de goma com chocolate |
-|          | [5] - Doce de leite       | [5] - chocolate derretido        |
+|[1] - 1kg | [1] - Uva                 | [1] - Castanhas                  |
+|[2] - 2kg | [2] - Creme               | [2] - Balinhas de gelatina       |
+|          | [3] - Coco                | [3] - Cookies                    |
+|          | [4] - Maracujá            | [4] - Caramelo                   |
+|          | [5] - Doce de leite       | [5] - Calda de chocolate         |
 |__________|___________________________|__________________________________|
 """)
 
@@ -161,11 +161,11 @@ class Copo(Sorvete):
         print("""_____________________________________________________________________________
 | Quantidade |          Sabor            |           Acompanhamento         |
 |____________|___________________________|__________________________________|
-|[1] - 300ml | [1] - Chocolate           | [1] - Flocos                     |
-|[2] - 500ml | [2] - Morango             | [2] - cereja                     |
-|            | [3] - Balnilia            | [3] - granulado                  |
-|            | [4] - Maracuja            | [4] - bala de goma com chocolate |
-|            | [5] - Ceu azul            | [5] - chocolate derretido        |
+|[1] - 300ml | [1] - Chocolate           | [1] - Castanhas                  |
+|[2] - 500ml | [2] - Morango             | [2] - Balinhas de gelatina       |
+|            | [3] - Balnilia            | [3] - Cookies                    |
+|            | [4] - Maracuja            | [4] - Caramelo                   |
+|            | [5] - Ceu azul            | [5] - Calda de chocolate         |
 |____________|___________________________|__________________________________|
 """)
 
@@ -225,11 +225,11 @@ class Copo(Sorvete):
         print("""_____________________________________________________________________________
 | Quantidade |          Sabor            |           Acompanhamento         |
 |____________|___________________________|__________________________________|
-|[1] - 300ml | [1] - Chocolate           | [1] - Flocos                     |
-|[2] - 500ml | [2] - Morango             | [2] - cereja                     |
-|            | [3] - Balnilia            | [3] - granulado                  |
-|            | [4] - Maracujá            | [4] - bala de goma com chocolate |
-|            | [5] - Ceu azul            | [5] - chocolate derretido        |
+|[1] - 300ml | [1] - Chocolate           | [1] - Castanhas                  |
+|[2] - 500ml | [2] - Morango             | [2] - Balinhas de gelatina       |
+|            | [3] - Balnilia            | [3] - Cookies                    |
+|            | [4] - Maracujá            | [4] - Caramelo                   |
+|            | [5] - Ceu azul            | [5] - Calda de chocolate         |
 |____________|___________________________|__________________________________|
 """)
 
@@ -242,11 +242,11 @@ class Casquinha(Sorvete):
         print("""_______________________________________________________________________________
 |  Quantidade  |          Sabor            |           Acompanhamento         |
 |______________|___________________________|__________________________________|
-|[1] - 1 bola  | [1] - Chocolate           | [1] - Flocos                     |
-|[2] - 2 bolas | [2] - Morango             | [2] - cereja                     |
-|              | [3] - Balnilia            | [3] - granulado                  |
-|              | [4] - Misto               | [4] - bala de goma com chocolate |
-|              | [5] - caramelo            | [5] - chocolate derretido        |
+|[1] - 1 bola  | [1] - Chocolate           | [1] - Castanhas                  |
+|[2] - 2 bolas | [2] - Morango             | [2] - Balinhas de gelatina       |
+|              | [3] - Balnilia            | [3] - Cookies                    |
+|              | [4] - Misto               | [4] - Caramelo                   |
+|              | [5] - caramelo            | [5] - Calda de chocolate         |
 |______________|___________________________|__________________________________|
 """)
         print("OBS:Não se esqueça de digitar o numero do ingrediente desejado: ")
@@ -305,10 +305,10 @@ class Casquinha(Sorvete):
         print("""_______________________________________________________________________________
 |  Quantidade  |          Sabor            |           Acompanhamento         |
 |______________|___________________________|__________________________________|
-|[1] - 1 bola  | [1] - Chocolate           | [1] - Flocos                     |
-|[2] - 2 bolas | [2] - Morango             | [2] - cereja                     |
-|              | [3] - Balnilia            | [3] - granulado                  |
-|              | [4] - Misto               | [4] - bala de goma com chocolate |
-|              | [5] - caramelo            | [5] - chocolate derretido        |
+|[1] - 1 bola  | [1] - Chocolate           | [1] - Castanhas                  |
+|[2] - 2 bolas | [2] - Morango             | [2] - Balinhas de gelatina       |
+|              | [3] - Balnilia            | [3] - Cookies                    |
+|              | [4] - Misto               | [4] - Caramelo                   |
+|              | [5] - caramelo            | [5] - Calda de chocolate         |
 |______________|___________________________|__________________________________|
 """)
