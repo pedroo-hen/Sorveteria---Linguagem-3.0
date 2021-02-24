@@ -17,9 +17,17 @@ print('Seja bem vindo a Sorveteria, escolha uma opção abaixo: ')
 print('-' * 55)
 print("[1]. Fazer cadastro.")
 print("[2]. Fazer pedido.")
+print("[3]. Sugerir novo item ao cardápio. ")
 print('-' * 55)
 
 resposta = int(input("Opção: "))
+
+if resposta == 3:
+  item = input("Insira sua sugestão ao cardápio: ")
+  print("Aguarde...")
+  sleep(3)
+  print("Sua sugestão foi registrada com sucesso!")
+  exit()
 
 if resposta == 1:
   nome = input('Qual é o seu nome? ')
