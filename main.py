@@ -112,11 +112,11 @@ class Barca(Sorvete):
           raise Exception("A opção selecionada é invalida.")
 
         print("Agora os acompanhamentos: ")
-        print("[1] - Flocos")
-        print("[2] - cereja")
-        print("[3] - granulado")
-        print("[4] - bala de goma com chocolate")
-        print("[5] - chocolate derretido ")
+        print("[1] - Castanhas")
+        print("[2] - Balinhas de gelatina")
+        print("[3] - Cookies")
+        print("[4] - Caramelo")
+        print("[5] - Calda de chocolate ")
         
         acompanhamento = int(input("Opção: "))
 
@@ -195,11 +195,11 @@ class Copo(Sorvete):
           raise Exception("A opção selecionada é invalida.")
 
         print("Agora os acompanhamentos: ")
-        print("[1] - Flocos")
-        print("[2] - cereja")
-        print("[3] - granulado")
-        print("[4] - bala de goma com chocolate")
-        print("[5] - chocolate derretido ")
+        print("[1] - Castanhas")
+        print("[2] - Balinhas de gelatina")
+        print("[3] - Cookies")
+        print("[4] - Caramelo")
+        print("[5] - Calda de chocolate ")
 
         acompanhamento = int(input("Opção: "))
 
@@ -273,12 +273,12 @@ class Casquinha(Sorvete):
         if sabor > 5:
           raise Exception("A opção selecionada é invalida.")
 
-        print("Esses são os sabores: ")
-        print("[1] - Chocolate")
-        print("[2] - Morango")
-        print("[3] - Balnilia")
-        print("[4] - Misto")
-        print("[5] - caramelo")
+        print("Agora os acompanhamentos: ")
+        print("[1] - Castanhas")
+        print("[2] - Balinhas de gelatina")
+        print("[3] - Cookies")
+        print("[4] - Caramelo")
+        print("[5] - Calda de chocolate ")
 
         acompanhamento = int(input("Opção: "))
 
