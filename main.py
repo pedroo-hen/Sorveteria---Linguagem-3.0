@@ -1,9 +1,9 @@
 #Curso: Técnico em Informatica.
 #Turma: 2º Ano.
 #Turno: Matutino.
-
+#Disciplina; Programação Orientada a Objeto
 #Alunos: Brenda Custodio de Souza - Pedro Henrique Silva. 
-#Disciplina: Linguagem
+
 from time import sleep
 
 class Cliente(object):
